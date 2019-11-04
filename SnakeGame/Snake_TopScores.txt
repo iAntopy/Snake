@@ -1,0 +1,4 @@
+TopScore=24400
+TopTemps=60
+TopLong=16
+TopScoreSec=196
